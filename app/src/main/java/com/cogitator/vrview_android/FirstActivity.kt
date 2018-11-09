@@ -45,7 +45,7 @@ class FirstActivity : AppCompatActivity() {
         val assetManager = assets
 
         try {
-            inputStream = assetManager.open("formatted.jpg")
+            inputStream = assetManager.open("openspace.jpg")
             options.inputType = VrPanoramaView.Options.TYPE_MONO
             panorama_view.loadImageFromBitmap(BitmapFactory.decodeStream(inputStream), options)
             inputStream!!.close()
