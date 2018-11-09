@@ -1,6 +1,9 @@
 # VRViewAndroid
 Writing your own VR View for Android Devices
 
+## Arctile 
+Complete write up is availabel on [medium post](https://medium.com/@cogitator/writing-your-own-vr-view-for-android-devices-2f3fab08606)
+
 
 ### Contact - Let's connect to learn together
 - [Twitter](https://twitter.com/KumarAnkitRKE)
